@@ -1,0 +1,336 @@
+﻿2020-01-15 12:55:15.176 - ShareX starting.
+2020-01-15 12:55:15.184 - Version: 13.0.2 Dev
+2020-01-15 12:55:15.184 - Build: Release
+2020-01-15 12:55:15.184 - Command line: "C:\Users\stephen.nguyen\Documents\ShareX\ShareX\bin\Release\ShareX.exe" 
+2020-01-15 12:55:15.184 - Personal path: C:\Users\stephen.nguyen\Documents\ShareX
+2020-01-15 12:55:15.210 - Operating system: Windows 10 Pro (64-bit)
+2020-01-15 12:55:15.211 - Running as elevated process: False
+2020-01-15 12:55:15.214 - Flags: Dev
+2020-01-15 12:55:15.227 - ApplicationConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\ApplicationConfig.json
+2020-01-15 12:55:15.227 - ApplicationConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\Backup\ApplicationConfig.json
+2020-01-15 12:55:15.227 - Loading new ApplicationConfig instance.
+2020-01-15 12:55:15.324 - UploadersConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:55:15.324 - UploadersConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\Backup\UploadersConfig.json
+2020-01-15 12:55:15.324 - Loading new UploadersConfig instance.
+2020-01-15 12:55:15.327 - MainForm init started.
+2020-01-15 12:55:15.337 - HotkeysConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\HotkeysConfig.json
+2020-01-15 12:55:15.337 - HotkeysConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\Backup\HotkeysConfig.json
+2020-01-15 12:55:15.337 - Loading new HotkeysConfig instance.
+2020-01-15 12:55:15.670 - MainForm init finished.
+2020-01-15 12:55:16.296 - Startup time: 1175 ms
+2020-01-15 12:55:16.318 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2020-01-15 12:55:16.319 - Unable to register hotkey: Print Screen
+2020-01-15 12:55:16.319 - Hotkey register failed: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2020-01-15 12:55:16.319 - Unable to register hotkey: Alt + Print Screen
+2020-01-15 12:55:16.319 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2020-01-15 12:55:16.319 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2020-01-15 12:55:16.319 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2020-01-15 12:55:17.573 - HotkeyManager started.
+2020-01-15 12:55:17.574 - WatchFolderManager started.
+2020-01-15 12:55:32.351 - Error:
+Error message:
+The remote server returned an error: (404) Not Found.
+
+Request URL:
+https://seafile.oknuj.pw/ping/?format=json
+
+Status code:
+(404) Not Found
+
+Headers:
+Connection: close
+Vary: Accept-Language, Cookie
+Content-Language: en
+Content-Length: 8565
+Content-Type: text/html; charset=utf-8
+Date: Wed, 15 Jan 2020 19:55:31 GMT
+Server: nginx/1.16.1
+
+Response text:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Oknuj Seafile</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="File Collaboration Team Organization" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="shortcut icon" href="/media/img/favicon.ico" />
+
+<link rel="stylesheet" type="text/css" href="/media/assets/css/bootstrap.min.b00faad199b5.css"/>
+
+<link rel="stylesheet" type="text/css" href="/media/css/jstree_default_theme/style.min.css" />
+<link rel="stylesheet" type="text/css" href="/media/assets/css/magnific-popup.656241b2c8ed.css" />
+<link rel="stylesheet" type="text/css" href="/media/css/seahub.min.css?t=1569203823" />
+<link rel="stylesheet" type="text/css" href="/media/css/sf_font3/iconfont.css" />
+
+ 
+
+</head>
+
+<body>
+    <div id="wrapper" class="en d-flex fd-col h100">
+        
+        
+        
+
+        <div id="header" class="d-flex">
+            <a href="/" id="logo">
+                
+                <img src="/media/img/seafile-logo.png" title="Oknuj Seafile" alt="logo" width="" height="32" />
+                
+            </a>
+            <span class="sf2-icon-menu side-nav-toggle hidden-md-up hide" title="Side Nav Menu" id="js-toggle-side-nav" aria-label="Side Nav Menu"></span>
+
+            
+             
+            <div id="lang">
+                <a href="#" id="lang-context" data-lang="en">English <span class="icon-caret-down"></span></a>
+                <div id="lang-context-selector" class="sf-popover hide">
+                    <ul class="sf-popover-con">
+                        
+                        <li><a href="/i18n/?lang=ca">Català</a></li>
+                        
+                        <li><a href="/i18n/?lang=cs">Čeština</a></li>
+                        
+                        <li><a href="/i18n/?lang=de">Deutsch</a></li>
+                        
+                        <li><a href="/i18n/?lang=en">English</a></li>
+                        
+                        <li><a href="/i18n/?lang=es">Español</a></li>
+                        
+                        <li><a href="/i18n/?lang=es-ar">Español de Argentina</a></li>
+                        
+                        <li><a href="/i18n/?lang=es-mx">Español de México</a></li>
+                        
+                        <li><a href="/i18n/?lang=fr">Français</a></li>
+                        
+                        <li><a href="/i18n/?lang=it">Italiano</a></li>
+                        
+                        <li><a href="/i18n/?lang=is">Íslenska</a></li>
+                        
+                        <li><a href="/i18n/?lang=lv">Latvian</a></li>
+                        
+                        <li><a href="/i18n/?lang=hu">Magyar</a></li>
+                        
+                        <li><a href="/i18n/?lang=nl">Nederlands</a></li>
+                        
+                        <li><a href="/i18n/?lang=pl">Polski</a></li>
+                        
+                        <li><a href="/i18n/?lang=pt-br">Portuguese, Brazil</a></li>
+                        
+                        <li><a href="/i18n/?lang=ru">Русский</a></li>
+                        
+                        <li><a href="/i18n/?lang=sl">Slovenian</a></li>
+                        
+                        <li><a href="/i18n/?lang=fi">Suomi</a></li>
+                        
+                        <li><a href="/i18n/?lang=sv">Svenska</a></li>
+                        
+                        <li><a href="/i18n/?lang=vi">Tiếng Việt</a></li>
+                        
+                        <li><a href="/i18n/?lang=tr">Türkçe</a></li>
+                        
+                        <li><a href="/i18n/?lang=uk">українська мова</a></li>
+                        
+                        <li><a href="/i18n/?lang=he">עברית</a></li>
+                        
+                        <li><a href="/i18n/?lang=ar">العربية</a></li>
+                        
+                        <li><a href="/i18n/?lang=el">ελληνικά</a></li>
+                        
+                        <li><a href="/i18n/?lang=th">ไทย</a></li>
+                        
+                        <li><a href="/i18n/?lang=ko">한국어</a></li>
+                        
+                        <li><a href="/i18n/?lang=ja">日本語</a></li>
+                        
+                        <li><a href="/i18n/?lang=zh-cn">简体中文</a></li>
+                        
+                        <li><a href="/i18n/?lang=zh-tw">繁體中文</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            
+        </div>
+
+        <div id="main" class="container-fluid w100 flex-auto ov-auto">
+            
+            <div class="row">
+                <div id="main-panel" class="w100 ovhd">
+                    
+<div class="text-panel">
+  <p>Sorry, but the requested page could not be found.</p>
+</div>
+
+                </div>
+            </div>
+            
+        </div>
+
+        
+
+        <div id="confirm-popup" class="hide">
+            <div id="confirm-con"></div>
+            <button id="confirm-yes">Yes</button>
+            <button class="simplemodal-close">No</button>
+        </div>
+</div><!-- wrapper -->
+<script type="text/javascript">
+var SEAFILE_GLOBAL = {
+    csrfCookieName: 'sfcsrftoken'
+};
+var app = {
+    ui : {
+        currentDropdown: false,
+        currentHighlightedItem: false,
+        freezeItemHightlight: false
+    }
+}
+</script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jquery.min.a09e13ee94d5.js" id="jquery"></script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jquery.simplemodal.55150926fcd1.js"></script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jstree.min.3e831b62c177.js"></script>
+<script type="text/javascript" src="/media/js/jq.min.js"></script>
+<script type="text/javascript" src="/media/js/base.js?t=1569203823"></script>
+<script type="text/javascript">
+function prepareAjaxErrorMsg(xhr) {
+    var error_msg;
+    if (xhr.responseText) {
+        var parsed_resp = JSON.parse(xhr.responseText);
+        // use `HTMLescape` for msgs which contain variable like 'path'
+        error_msg = HTMLescape(parsed_resp.error ||
+                parsed_resp.error_msg || parsed_resp.detail);
+    } else {
+        error_msg = gettext("Failed. Please check the network.");
+    }
+    return error_msg;
+}
+function ajaxErrorHandler(xhr, textStatus, errorThrown) {
+    var error_msg = prepareAjaxErrorMsg(xhr);
+    feedback(error_msg, 'error');
+}
+ 
+(function() {
+    var lang_context = $('#lang-context'),
+        lang_selector = $('#lang-context-selector');
+
+    lang_context.parent().css({'position':'relative'});
+
+    if ($('#header').is(':visible')) { // for login page
+        lang_selector.css({
+            'top': lang_context.position().top + lang_context.height() + 5,
+            'right': 0
+        });
+    }
+
+    var setLangSelectorMaxHeight = function() {
+        if ($('#header').is(':visible')) { // for login page
+            $('.sf-popover-con', lang_selector).css({
+                'max-height': $(window).height() - lang_selector.offset().top - 12
+            });
+        }
+    };
+    $(window).on('resize', function() {
+        if (lang_selector.is(':visible')) {
+            setLangSelectorMaxHeight();
+        }
+    });
+
+    lang_context.on('click', function() {
+        lang_selector.toggleClass('hide');
+        if (lang_selector.is(':visible')) {
+            setLangSelectorMaxHeight();
+        }
+        return false;
+    });
+
+    $(document).on('click', function(e) {
+        var element = e.target || e.srcElement;
+        if (element.id != 'lang-context-selector' && element.id != 'lang-context') {
+            lang_selector.addClass('hide');
+        }
+    });
+})();
+
+
+if ($('.side-nav').length) {
+    $('#logo').addClass('hidden-sm-down');
+    $('#js-toggle-side-nav').removeClass('hide');
+}
+$('#js-toggle-side-nav').on('click', function() {
+    $('.side-nav').addClass('side-nav-shown');
+    $('').modal({
+        overlayClose: true,
+        onClose: function() {
+            $('.side-nav').removeClass('side-nav-shown');
+            $.modal.close();
+        }});
+    $('#simplemodal-container').css({'display':'none'});
+    return false;
+});
+$('.js-close-side-nav').on('click', function() {
+    $('.side-nav').removeClass('side-nav-shown');
+    return false;
+});
+</script>
+
+</body>
+</html>
+
+
+Stack trace:
+   at System.Net.HttpWebRequest.GetResponse()
+   at ShareX.UploadersLib.Uploader.GetResponse(HttpMethod method, String url, Stream data, String contentType, Dictionary`2 args, NameValueCollection headers, CookieCollection cookies, Boolean allowNon2xxResponses)
+2020-01-15 12:55:50.880 - UploadersConfig save started: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:55:51.007 - UploadersConfig save successful: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:56:20.150 - Task in queue. Job: Job, Type: File, Host: Seafile
+2020-01-15 12:56:20.281 - Task status: Preparing
+2020-01-15 12:56:22.889 - Upload started. Filename: tHSoioembM.png
+2020-01-15 12:56:23.189 - Upload completed. URL: https://seafile.oknuj.pw/f/044ad59f09c345f59e9a/?raw=1, Duration: 295 ms
+2020-01-15 12:56:23.224 - Task completed. Filename: tHSoioembM.png, Duration: 2934 ms
+2020-01-15 12:58:06.936 - ShareX starting.
+2020-01-15 12:58:06.944 - Version: 13.0.2 Dev
+2020-01-15 12:58:06.944 - Build: Release
+2020-01-15 12:58:06.944 - Command line: "C:\Users\stephen.nguyen\Documents\ShareX\ShareX\bin\Release\ShareX.exe" 
+2020-01-15 12:58:06.944 - Personal path: C:\Users\stephen.nguyen\Documents\ShareX
+2020-01-15 12:58:06.975 - Operating system: Windows 10 Pro (64-bit)
+2020-01-15 12:58:06.979 - Running as elevated process: False
+2020-01-15 12:58:06.983 - Flags: Dev
+2020-01-15 12:58:06.998 - ApplicationConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\ApplicationConfig.json
+2020-01-15 12:58:06.998 - ApplicationConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\Backup\ApplicationConfig.json
+2020-01-15 12:58:06.998 - Loading new ApplicationConfig instance.
+2020-01-15 12:58:07.117 - UploadersConfig load started: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:58:07.120 - MainForm init started.
+2020-01-15 12:58:07.406 - UploadersConfig load finished: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:58:07.408 - HotkeysConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\HotkeysConfig.json
+2020-01-15 12:58:07.408 - HotkeysConfig file does not exist: C:\Users\stephen.nguyen\Documents\ShareX\Backup\HotkeysConfig.json
+2020-01-15 12:58:07.408 - Loading new HotkeysConfig instance.
+2020-01-15 12:58:07.475 - MainForm init finished.
+2020-01-15 12:58:07.796 - Startup time: 896 ms
+2020-01-15 12:58:07.816 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2020-01-15 12:58:07.816 - Unable to register hotkey: Print Screen
+2020-01-15 12:58:07.816 - Hotkey register failed: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2020-01-15 12:58:07.816 - Unable to register hotkey: Alt + Print Screen
+2020-01-15 12:58:07.816 - Hotkey register failed: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2020-01-15 12:58:07.816 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording using custom region, Job: ScreenRecorder
+2020-01-15 12:58:07.816 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF) using custom region, Job: ScreenRecorderGIF
+2020-01-15 12:58:09.004 - HotkeyManager started.
+2020-01-15 12:58:09.005 - WatchFolderManager started.
+2020-01-15 12:58:28.709 - Task in queue. Job: Job, Type: File, Host: Seafile
+2020-01-15 12:58:28.755 - Task status: Preparing
+2020-01-15 12:58:29.493 - Upload started. Filename: PJT18eSvpU.png
+2020-01-15 12:58:30.042 - Upload completed. URL: https://seafile.oknuj.pw/f/ef964ecdd75b4ee4a337?raw=1, Duration: 543 ms
+2020-01-15 12:58:30.072 - Task completed. Filename: PJT18eSvpU.png, Duration: 1309 ms
+2020-01-15 12:58:36.750 - ApplicationConfig save started: C:\Users\stephen.nguyen\Documents\ShareX\ApplicationConfig.json
+2020-01-15 12:58:36.754 - UploadersConfig save started: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:58:36.754 - HotkeysConfig save started: C:\Users\stephen.nguyen\Documents\ShareX\HotkeysConfig.json
+2020-01-15 12:58:36.854 - UploadersConfig save successful: C:\Users\stephen.nguyen\Documents\ShareX\UploadersConfig.json
+2020-01-15 12:58:36.912 - HotkeysConfig save successful: C:\Users\stephen.nguyen\Documents\ShareX\HotkeysConfig.json
+2020-01-15 12:58:36.947 - ApplicationConfig save successful: C:\Users\stephen.nguyen\Documents\ShareX\ApplicationConfig.json

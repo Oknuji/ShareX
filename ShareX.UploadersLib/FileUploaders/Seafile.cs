@@ -449,7 +449,7 @@ namespace ShareX.UploadersLib.FileUploaders
                     if (CreateShareableURL && !IsLibraryEncrypted)
                     {
                         AllowReportProgress = false;
-                        result.URL = ShareFile(Path + fileName);
+                        result.URL = ShareFile(Path + fileName).Trim('/') + "?raw=1";
                     }
                     else
                     {
